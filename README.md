@@ -1,5 +1,5 @@
 # Kenect React Native Programming Exercise
-Please clone this repository and complete the following steps ensure that the application runs locally before the technical interview begins.
+Please clone this repository and complete the following steps to ensure that the application runs locally before the technical interview begins.
 
 ## Dependencies
 - node & npm: `brew install node`
